@@ -1,2 +1,2 @@
 # SocialDistanceDetector
-A YOLO-V3 Algorithm Based Social Distance Monitoring System
+A YOLO-V3 Based Social Distance Monitoring System
